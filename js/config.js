@@ -1,6 +1,6 @@
 // Easy configuration file
 const PACK_NAME = "Untitled Skyblock Modpack";
-const VERSION = "0.0.1";
+const VERSION = "0.0.2";
 
 
 // Apply values
